@@ -43,7 +43,7 @@ An internet connection is needed because Bootstrap is loaded using a CDN.
 
 The website is hosted using GitHub Pages.
 
-Live website: URL to be added after deployment.
+Live website: https://riazk09.github.io/rios-hardware/
 
 ## Important Note
 
